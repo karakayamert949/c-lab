@@ -1,0 +1,1 @@
+Write a C program to copy contents from one file to another. Logic to copy contents from one file to another file in C program. How to copy contents from one file to another using functions in C programming.
